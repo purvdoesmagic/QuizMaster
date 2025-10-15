@@ -17,7 +17,7 @@ It randomly selects questions from a pool of 50 across 5 topics — *Science, Hi
 ## ⚙️ Technical Details
 - **Language:** C  
 - **Compiler:** GCC / Code::Blocks  
-- **Platform:** Windows / Linux  
+- **Platform:** Windows / Linux
 
 ---
 
